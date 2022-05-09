@@ -112,7 +112,7 @@ hr {
 }
 
 .banner {
-    background-image: url("./assets/img/bg.png");
+    background-image: url(/assets/img/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -380,14 +380,14 @@ hr {
     
 }
 .social-youtube {
-    background-image: url("./assets/img/icon1.svg");
+    background-image: url(/assets/img/icon1.svg);
 }
 .social-vk {
-    background-image: url("./assets/img/icon2.svg");
+    background-image: url(/assets/img/icon2.svg);
 }
 .social-fb {
-    background-image: url("./assets/img/icon3.svg");
+    background-image: url(/assets/img/icon3.svg);
 }
 .social-inst {
-    background-image: url("./assets/img/icon4.svg");
+    background-image: url(/assets/img/icon4.svg);
 }
